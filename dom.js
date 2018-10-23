@@ -1,4 +1,5 @@
 const $ = function (selector) {
+  // useless comment
   const nodeList = document.querySelectorAll(selector);
 
   const text = function(content){
